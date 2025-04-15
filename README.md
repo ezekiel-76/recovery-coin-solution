@@ -1,1 +1,1 @@
-recoverycoinsolution.html
+index.html
